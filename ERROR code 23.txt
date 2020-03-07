@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript">
+function Tapped()
+{
+	alert("ERROR CODE 23");
+}
+function Remover()
+{
+	var tapper = document.getElementById ("tapButton");
+	tapper.addEventListener("click",Tapped,false);
+	tapper.style.background='blue';
+	tapper.style.color='white';
+	var killer = document.getElementById ("spoiler");
+	killer.addEventListener("click",Tapped,false);
+	killer.style.background='blue';
+	killer.style.color='white';
+	
+	alert (""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+               ""       __________   __________    __________      ______     __________     ___           ""
+               ""   *  |          | |    ____  \  |    ____  \   /   ___  \  |    ____  \   |   |    *     ""
+               ""   *  |    ______| |   |    )  | |   |    )  | |   /   \  | |   |    )  |  |   |          ""
+               ""   * |   |______  |   |____)  | |   |____)  | |   |  /|  | |   |____)  |    /   /         ""
+               ""      |    ______| |    _     /  |    _     /  |   | / |  | |    _     /   |   |          ""
+               ""      |   |______  |   | \   \   |   | \   \   |   |/  |  | |   | \   \    \___/    *     ""
+               ""      |          | |   |  \   \  |   |  \   \  |   \___/  | |   |  \   \     ___    *     ""
+               ""   *   |__________| |___|   \___\ |___|   \___\  \ ______ /  |___|   \___\  |___|   *     ""
+               ""                                                                                          ""
+               ""         **ERROR CODE 23:  YOU HAVE ENCOUNTERED CATASTROPHIC SYSTEM FAILURE!!!**          ""
+               ""                                                                                          ""
+               """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""");
+}
+
+</script>
+
+{
+<script>
+	I = 1
+	WHILE I < 1000
+	PRINT (""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+               ""       __________   __________    __________      ______     __________     ___           ""
+               ""   *  |          | |    ____  \  |    ____  \   /   ___  \  |    ____  \   |   |    *     ""
+               ""   *  |    ______| |   |    )  | |   |    )  | |   /   \  | |   |    )  |  |   |          ""
+               ""   * |   |______  |   |____)  | |   |____)  | |   |  /|  | |   |____)  |    /   /         ""
+               ""      |    ______| |    _     /  |    _     /  |   | / |  | |    _     /   |   |          ""
+               ""      |   |______  |   | \   \   |   | \   \   |   |/  |  | |   | \   \    \___/    *     ""
+               ""      |          | |   |  \   \  |   |  \   \  |   \___/  | |   |  \   \     ___    *     ""
+               ""   *   |__________| |___|   \___\ |___|   \___\  \ ______ /  |___|   \___\  |___|   *     ""
+               ""                                                                                          ""
+               ""         **ERROR CODE 23:  YOU HAVE ENCOUNTERED CATASTROPHIC SYSTEM FAILURE!!!**          ""
+               ""                                                                                          ""
+               """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""");
+	WEND
+	END
+}
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tap Button</title>
+</head>
+
+<body onload="setUp()">
+	<button id="tapButton">THAT'S A KILLER!</button>
+	<button id="spoiler">THIS IS ALSO A KILLER!</button>
+</body>
+</html>
