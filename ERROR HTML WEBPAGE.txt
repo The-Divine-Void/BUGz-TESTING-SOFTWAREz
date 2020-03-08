@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "A.G.I.L.E. 2.0">
+<HEAD>
+<TITLE>** YOU HAVE MADE A FATAL ERROR! **</TITLE>
+</HEAD>
+
+
+<h1> Things just dont seem right do they???</h1>
+
+<body bgcolor="blue">
+<p style="color:white;">white paragraph text</p>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+               """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+               ""       __________   __________    __________      ______     __________     ___           ""
+               ""   *  |          | |    ____  \  |    ____  \   /   ___  \  |    ____  \   |   |    *     ""
+               ""   *  |    ______| |   |    )  | |   |    )  | |   /   \  | |   |    )  |  |   |          ""
+               ""   * |   |______  |   |____)  | |   |____)  | |   |  /|  | |   |____)  |    /   /         ""
+               ""      |    ______| |    _     /  |    _     /  |   | / |  | |    _     /   |   |          ""
+               ""      |   |______  |   | \   \   |   | \   \   |   |/  |  | |   | \   \    \___/    *     ""
+               ""      |          | |   |  \   \  |   |  \   \  |   \___/  | |   |  \   \     ___    *     ""
+               ""   *   |__________| |___|   \___\ |___|   \___\  \ ______ /  |___|   \___\  |___|   *     ""
+               ""                                                                                          ""
+               ""         **ERROR CODE 23:  YOU HAVE ENCOUNTERED CATASTROPHIC SYSTEM FAILURE!!!**          ""
+               ""                                                                                          ""
+               """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+*****ERROR CODE 23********************ERROR CODE 23******ERROR CODE 23********************ERROR CODE 23*****************
+************************************************************************ERROR CODE 23***********************************
+*****************ERROR CODE 23**********ERROR CODE 23********ERROR CODE 23****************ERROR CODE 23*****************
+************************************************************************************************************************
+**********ERROR CODE 23*******************************ERROR CODE 23******************************ERROR CODE 23**********
+
+========================================================================================================================
+=                                                                                                                      = 
+=  Welcome Ladies if any and Creeps with dicks which we all assume are out there to begin with...                      =
+=                                                                                                                      =
+=  well actually not welcome creeps if any, but you can have a seat right over there as we begin to talk about         =
+=                                                                                                                      =
+=  why you are here...I wont refer to you as gentlemen or men in general because thats a loosely used term now a days. =
+=                                                                                                                      =
+=                                                                                                                      =
+=        <BOLD>THIS IS THE ERROR PAGE, HOME OF THE NOTORIOUS ERROR MESSAGE INTERNET SECURITY SOFTWARE.</BOLD>          =
+=                                                                                                                      =
+========================================================================================================================
+
+
+<h2>OUR OBJECTIVE</h2>
+________________________________________________________________________________________________________________________
+[]                                                                                                                    []
+[]        Right now as you are reading this, this website which is actually an AI named A.G.I.L.E. it stands for,     []
+[]                                                                                                                    []         
+[]        Artificial Guardian Internet Latency Enforcement is gathering all of your personal information from all     []
+[]                                                                                                                    []
+[]        of your social media and all metadata linked to any user accounts on your device and/or devices.            []
+[]                                                                                                                    []
+[]                          ***You are officially caught doing what you shouldnt be.***                               []
+[]                                                                                                                    []
+[]        Its over! Theres no need to kick and scream and fight. The authorities are being contacted remotely via     []
+[]                                                                                                                    []
+[]        a phone network linked directly to this software and website. Your device and/or devices have been          []
+[]                                                                                                                    []
+[]        commandeered by the government in an attempt to cut down on internet pedophilia, human trafficking,         []
+[]                                                                                                                    []
+[]        furries, weirdos, satanists, occultists who practice the dark arts, people who dont like fish as pets,      []
+[]                                                                                                                    []
+[]        fuckers, fuckery, internet fuckery, and all forms of FUCKERY. THATS RIGHT FOLKS ALL FORMS OF FUCKERY!       []
+[]                                                                                                                    []
+[]        We dont like thieves, liars, adulterers, sodomites, cheaters,                                               []
+
+
+
+
+<CODE>  
+
+<script type="text/javascript">
+function Tapped()
+{
+	alert("ERROR CODE 23");
+}
+function setUp()
+{
+	var DAMNED IF YA DO = document.getElementById ("tapButton");
+	DAMNED IF YA DO.addEventListener("click",Tapped,false);
+	DAMNED IF YA DO.style.background='blue';
+	DAMNED IF YA DO.style.color='white';
+	var DAMNED IF YA DONT = document.getElementById ("spoiler");
+	DAMNED IF YA DONT.addEventListener("click",Tapped,false);
+	DAMNED IF YA DONT.style.background='blue';
+	DAMNED IF YA DONT.style.color='white';
+	
+	alert ("ERROR CODE 23");
+
+	<body onload="setUp()">
+	<button id="tapButton">THAT'S A KILLER!</button>
+	<button id="spoiler">THIS IS ALSO A KILLER!</button>
+}
+
+</script>       
+
+</CODE>
+
+<HR>
+<BOLD>
+For more information on how you can combat internet fuckery please feel free to contact us on our 
+Company WEBSITE "ERROR CODE 23". All financial contributions are looked at as donations and are welcome 
+no matter who they come from. "A.G.I.L.E." and "ERROR CODE 23" are both trademarked and copyrighted. 2020 unlmtd.
+</BOLD>
+
+
+</BODY>
+</HTML>
