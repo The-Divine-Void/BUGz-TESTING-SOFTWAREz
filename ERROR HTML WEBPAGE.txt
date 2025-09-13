@@ -32,16 +32,7 @@
 **********ERROR CODE 23*******************************ERROR CODE 23******************************ERROR CODE 23**********
 
 ========================================================================================================================
-=                                                                                                                      = 
-=  Welcome Ladies if any and Creeps with dicks which we all assume are out there to begin with...                      =
-=                                                                                                                      =
-=  well actually not welcome creeps if any, but you can have a seat right over there as we begin to talk about         =
-=                                                                                                                      =
-=  why you are here...I wont refer to you as gentlemen or men in general because thats a loosely used term now a days. =
-=                                                                                                                      =
-=                                                                                                                      =
-=        <BOLD>THIS IS THE ERROR PAGE, HOME OF THE NOTORIOUS ERROR MESSAGE INTERNET SECURITY SOFTWARE.</BOLD>          =
-=                                                                                                                      =
+
 ========================================================================================================================
 
 
@@ -109,4 +100,5 @@ no matter who they come from. "A.G.I.L.E." and "ERROR CODE 23" are both trademar
 
 
 </BODY>
+
 </HTML>
